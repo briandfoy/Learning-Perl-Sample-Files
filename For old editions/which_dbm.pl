@@ -42,7 +42,7 @@ BEGIN {
 }
 
 # Command-line arg may be the name of a DBM implementation, such as GDBM,
-# and that one will be used instead of the default if possible. 
+# and that one will be used instead of the default if possible.
 BEGIN {
     return unless @ARGV;
     my $requested = $ARGV[0];
@@ -75,7 +75,7 @@ die "This program can't determine the DBM mode in use.\n"
 print <<"MESSAGE";
 You seem to be using @AnyDBM_File::ISA.
 
-To always request this implementation when you use dbmopen(), 
+To always request this implementation when you use dbmopen(),
 add this line near the top of your programs:
 
         use @AnyDBM_File::ISA;
