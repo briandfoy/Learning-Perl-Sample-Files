@@ -3,10 +3,10 @@
 # fake_date - fake like the system's date command
 
 # If you don't have a Unix system with the "date" command, you may
-# wish to install this one which will produce similar output. 
+# wish to install this one which will produce similar output.
 
 # Generally, you can make this executable and change the top line
-# (as you would for any Perl program) and keep it in your current 
+# (as you would for any Perl program) and keep it in your current
 # working directory. (Calling commands from backticks doesn't work
 # on MacPerl unless you have ToolServer or something similar; see
 # the macperl POD file. Under Mac OS X and later, you should have

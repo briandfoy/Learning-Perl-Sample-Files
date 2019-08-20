@@ -3,7 +3,7 @@
 # and Sorting. Copy this text into your program, or edit this file and
 # save it under a new name.
 
-my %last_name = qw{ 
+my %last_name = qw{
 	fred flintstone Wilma Flintstone Barney Rubble
 	betty rubble Bamm-Bamm Rubble PEBBLES FLINTSTONE
 };
