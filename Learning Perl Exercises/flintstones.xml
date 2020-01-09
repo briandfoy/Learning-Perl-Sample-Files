@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<characters>
+	<character>
+		<name>Fred Flintstone</name>
+		<score>250</score>
+		<league>Adult</league>
+	</character>
+	<character>
+		<name>Barney Rubble</name>
+		<score>230</score>
+		<league>Adult</league>
+	</character>
+	<character>
+		<name>Dino</name>
+		<score>30</score>
+		<league>Pets</league>
+	</character>
+</characters>

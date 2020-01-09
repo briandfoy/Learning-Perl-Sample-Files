@@ -26,7 +26,13 @@ Chapter 16, Process Management
 Chapter 17
 	- sample_text.txt is a short Flintstones story that you can use
 	to search for character names. Use this with Exercise 17.1 (page 293).
-	
+
 For old editions
 	- The which_dbm.pl program helps you figure out which implementation
 	you are using. This chapter is no longer in the book.
+
+## Learning Perl Exercises
+
+I have a companion book called either Learning Perl Student Workbook (from
+O'Reilly) or Learning Perl Exercises (updated version but not from O'Reilly).
+I have some files for that.
