@@ -7,7 +7,7 @@ These are the sample files for *Learning Perl, 7th Edition*.
 	so you can see your tacs program in action.
 
 * Chapter 8, Matching with Regular Expressions
-	- [Chapter%208/pattern_test.pl] is the program we use to test regular expressions
+	- [pattern_test.pl](Chapter%208/pattern_test.pl] is the program we use to test regular expressions
 
 * Chapter 10, More Control Structures
 	- [Chapter%2010/lnr_example.pl] is a demonstration of last, next, and redo ("lnr")
