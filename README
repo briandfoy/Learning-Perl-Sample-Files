@@ -1,9 +1,11 @@
-These are the sample files for Learning Perl, 6th Edition. 
+These are the sample files for Learning Perl, 7th Edition.
+
+## Learning Perl, 7th Edition
 
 Chapter 5, Input and Output
 	- We provide several files that you can use with Exercise 5.1 (page 104)
 	so you can see your tacs program in action.
-	
+
 Chapter 8, Matching with Regular Expressions
 	- pattern_test.pl is the program we use to test regular expressions
 
